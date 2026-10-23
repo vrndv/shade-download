@@ -8,8 +8,10 @@ This repository points to the project's download page, where you can access the 
 ## Get the Project
 <p align="center">
 <a href="https://shade.kesug.com/downloads/">
-<img src="https://shade.kesug.com/#" alt="Download Project">
-</a>
+<img src="https://shade.kesug.com/logo.png" alt="Download Project">
+  Download SHADE
+</a> <br><br>
+  <a href="https://github.com/vrndv/shade-download/releases"> Releases</a>
 </p>
 
 <p align="center">
